@@ -1,0 +1,47 @@
+install git
+	#git config --global user.name "demo"
+	#git config --global user.email "demobun@gmail.com"
+sign up www.github.com]
+
+check flutter
+	#glutter doctor -v
+
+www.draw.io
+
+create project
+	create folder
+	cmd#flutter create --org com.pwacoth -a kotlin -i swift bunpwa
+
+vscode extensions
+	flutter widget snippets
+	flutter
+	dart
+	bracket pair colorizer
+	vscode icon
+
+cmd#flutter devices
+
+cmd#flutter run
+
+Vscode
+	vscode#stl ->enter (create class)
+
+void type
+return type
+
+SHIFT+ALT+F ทำบรรทัดให้สวยงาม
+
+	vscode#stf ->enter (ต้องตั้งชื่อก)
+
+http://iconfinder.com/
+	
+pubspec.yaml คือ สั่งให้ไปโหลดภาพที่นั่นที่นี่
+	แก้โค้ด โดยการกด CTRL+/ บรรทัดที่ 47-48
+
+นำ code ขึ้น github
+	cmd#git --version
+	cmd#git config --list
+
+github.com setup
+	cmd#git remote add origin https://github.com/buneknirun/code.git
+	click sourcecontrol @vscode
