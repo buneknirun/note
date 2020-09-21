@@ -4,7 +4,7 @@ install git
 sign up www.github.com]
 
 check flutter
-	#glutter doctor -v
+	#flutter doctor -v
 
 www.draw.io
 
@@ -45,3 +45,18 @@ pubspec.yaml คือ สั่งให้ไปโหลดภาพที่
 github.com setup
 	cmd#git remote add origin https://github.com/buneknirun/code.git
 	click sourcecontrol @vscode
+
+extract method
+
+http://pub.dev/ library of dart ***********
+
+google_fonts: ^1.1.0 ใส่ใน  pubspec.yaml บรรทัด 30-31
+
+vs#TextField
+
+decoration: InputDecoration(labelText: 'Username',
+          border: OutlineInputBorder(),
+        ),
+
+
+
