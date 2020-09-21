@@ -31,7 +31,7 @@ return type
 
 SHIFT+ALT+F ทำบรรทัดให้สวยงาม
 
-	vscode#stf ->enter (ต้องตั้งชื่อก)
+	vscode#stf ->enter (ต้องตั้งชื่อ) สร้างclass
 
 http://iconfinder.com/
 	
@@ -58,5 +58,24 @@ decoration: InputDecoration(labelText: 'Username',
           border: OutlineInputBorder(),
         ),
 
+SingleChildScrollView
 
+ซ่อนพาสเวิด		child: TextField(obscureText: true,
 
+red eye เปิดปิดพาสเวิด	
+
+https://material.io/	
+
+For MacOS
+#open -a simulator
+#flutter run -d all 	run ทั้ง IOS, ANDROID
+
+คลิกที่ฟ้อนได้
+FlatButton(
+                onPressed: () {},
+                child: Text('New Register'),
+              )
+
+create register.dart
+
+route
