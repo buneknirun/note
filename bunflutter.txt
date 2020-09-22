@@ -79,3 +79,28 @@ FlatButton(
 create register.dart
 
 route
+_________________________________________________________
+day 2
+
+child: TextField(
+        decoration: InputDecoration(
+          enabledBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(20),
+            borderSide: BorderSide(color: Colors.red)
+          ),
+          focusedBorder: OutlineInputBorder(
+            borderRadius: BorderRadius.circular(30),
+            borderSide: BorderSide(color: Colors.blue)
+          ),
+        ),
+      ),
+____________________________
+git clone link:xxx
+login my github
+	เข้าไปgithubเพื่อนเพื่อดึง เลือก fork , code
+____________________________
+SingleChildScrollView
+____________________________
+https://console.cloud.google.com/apis/library
+
+B7:0A:DD:9D:33:E7:4A:B7:4E:E5:9B:43:66:BB:CD:DA:0F:9E:30:CC
